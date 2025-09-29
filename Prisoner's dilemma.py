@@ -10,7 +10,7 @@ def pick_strategy():
     print("2:defect")
     print("3:cooperate")
     print("4:copyuser")
-    strategy = input("Enter choice 1-4")
+    strategy = input("Enter choice 1-4\n")
     return strategy
 
 
